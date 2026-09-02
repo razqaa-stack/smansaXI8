@@ -1,12 +1,482 @@
 {
   "kelases": [
-    "UNASSIGNED / CLEARED"
+    "XI.8"
   ],
-  "siswas": [],
+  "siswas": [
+    {
+      "id": 1788337035384,
+      "nama": "AGHAZIO DEVANTOS",
+      "nohp": "0101820876",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035385,
+      "nama": "AHMAD ABYAN NAUFAL",
+      "nohp": "0099969574",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035386,
+      "nama": "ALISYA KHUMAIRA",
+      "nohp": "0094988057",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035387,
+      "nama": "ALTHAF AL FARABY",
+      "nohp": "0101439805",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035388,
+      "nama": "ASSYFA NAYLAL HUSNA",
+      "nohp": "0093052132",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035389,
+      "nama": "AUFA TSABITA HENDRI",
+      "nohp": "0104935871",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035390,
+      "nama": "AUREL ALIFIA",
+      "nohp": "0103744379",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035391,
+      "nama": "AURELYA LATIF AGRIAWAN",
+      "nohp": "0109080059",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035392,
+      "nama": "BELVAN MAURO EFNALDO",
+      "nohp": "0101901427",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035393,
+      "nama": "BENING ADREVA",
+      "nohp": "0102445778",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035395,
+      "nama": "FAUZA HAMDA",
+      "nohp": "0109481312",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035396,
+      "nama": "GUSTIARA",
+      "nohp": "0102022065",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035397,
+      "nama": "HAFSYAH ALHANUN",
+      "nohp": "0107011749",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035398,
+      "nama": "HASNA ZAKIYYAH FAWWAZI",
+      "nohp": "0105188222",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035399,
+      "nama": "HUMAIRA AL ARSY",
+      "nohp": "0094612415",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035400,
+      "nama": "KHAIRA LINDUNG",
+      "nohp": "0105863855",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035401,
+      "nama": "KHAIRUNNISA INDAH GAFARI",
+      "nohp": "0098648102",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035402,
+      "nama": "KHANSA WARDATUNNISA",
+      "nohp": "2094524479",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035403,
+      "nama": "KHOIROTUZ ZAKIYA",
+      "nohp": "0101046166",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035404,
+      "nama": "KHOLID ARROHMAN",
+      "nohp": "0107987139",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035405,
+      "nama": "MAZAYA HALWA AIKO",
+      "nohp": "0108485903",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035407,
+      "nama": "MEISY ATHIYAH",
+      "nohp": "0106124214",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035408,
+      "nama": "MUHAMAD GERRY ALVIERO",
+      "nohp": "0098257093",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035409,
+      "nama": "MUHAMMAD FARID ARMA",
+      "nohp": "0117634893",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035410,
+      "nama": "MUHAMMAD FAUZAN",
+      "nohp": "3093698202",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035411,
+      "nama": "MUHAMMAD FAWWAZ ZIDDAN",
+      "nohp": "0105236800",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035412,
+      "nama": "MULYA NADHIN AL ARAF",
+      "nohp": "0098622224",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035413,
+      "nama": "MUTIARA ATHAILLAH RASYID",
+      "nohp": "0103847155",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035414,
+      "nama": "NADYLA AZZAHRA",
+      "nohp": "0094341873",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035415,
+      "nama": "NAZIRA ASSYIFA LATIEF",
+      "nohp": "0101167505",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035416,
+      "nama": "SABILA KHAIRATI EL AMANI",
+      "nohp": "0097555534",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035417,
+      "nama": "SAFA LUVENA ANDRIANE",
+      "nohp": "0104718528",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035419,
+      "nama": "SAFFA RIZQITA UNZILA AZ ZAHRA",
+      "nohp": "0107480934",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035420,
+      "nama": "SAHIRA",
+      "nohp": "0095209964",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035421,
+      "nama": "SALBINO JOEHAR",
+      "nohp": "0102087517",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035422,
+      "nama": "SALSABILA",
+      "nohp": "0101132649",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035423,
+      "nama": "SYAKIRA AULIA RIZA",
+      "nohp": "0104090147",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035424,
+      "nama": "THOHIRO SALAMAH",
+      "nohp": "3107613760",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035425,
+      "nama": "TSABITA RIF'ATUNISA",
+      "nohp": "0103741708",
+      "kelas": "XI.8"
+    }
+  ],
   "metadata": {
-    "kelas": "UNASSIGNED / CLEARED",
-    "jumlah_siswa": 0,
-    "updated": "2026-08-28T09:38:14.170Z"
+    "kelas": "XI.8",
+    "jumlah_siswa": 39,
+    "updated": "2026-09-02T08:18:18.313Z"
   },
-  "siswa": []
+  "siswa": [
+    {
+      "id": 1788337035384,
+      "nama": "AGHAZIO DEVANTOS",
+      "nohp": "0101820876",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035385,
+      "nama": "AHMAD ABYAN NAUFAL",
+      "nohp": "0099969574",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035386,
+      "nama": "ALISYA KHUMAIRA",
+      "nohp": "0094988057",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035387,
+      "nama": "ALTHAF AL FARABY",
+      "nohp": "0101439805",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035388,
+      "nama": "ASSYFA NAYLAL HUSNA",
+      "nohp": "0093052132",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035389,
+      "nama": "AUFA TSABITA HENDRI",
+      "nohp": "0104935871",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035390,
+      "nama": "AUREL ALIFIA",
+      "nohp": "0103744379",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035391,
+      "nama": "AURELYA LATIF AGRIAWAN",
+      "nohp": "0109080059",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035392,
+      "nama": "BELVAN MAURO EFNALDO",
+      "nohp": "0101901427",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035393,
+      "nama": "BENING ADREVA",
+      "nohp": "0102445778",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035395,
+      "nama": "FAUZA HAMDA",
+      "nohp": "0109481312",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035396,
+      "nama": "GUSTIARA",
+      "nohp": "0102022065",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035397,
+      "nama": "HAFSYAH ALHANUN",
+      "nohp": "0107011749",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035398,
+      "nama": "HASNA ZAKIYYAH FAWWAZI",
+      "nohp": "0105188222",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035399,
+      "nama": "HUMAIRA AL ARSY",
+      "nohp": "0094612415",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035400,
+      "nama": "KHAIRA LINDUNG",
+      "nohp": "0105863855",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035401,
+      "nama": "KHAIRUNNISA INDAH GAFARI",
+      "nohp": "0098648102",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035402,
+      "nama": "KHANSA WARDATUNNISA",
+      "nohp": "2094524479",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035403,
+      "nama": "KHOIROTUZ ZAKIYA",
+      "nohp": "0101046166",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035404,
+      "nama": "KHOLID ARROHMAN",
+      "nohp": "0107987139",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035405,
+      "nama": "MAZAYA HALWA AIKO",
+      "nohp": "0108485903",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035407,
+      "nama": "MEISY ATHIYAH",
+      "nohp": "0106124214",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035408,
+      "nama": "MUHAMAD GERRY ALVIERO",
+      "nohp": "0098257093",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035409,
+      "nama": "MUHAMMAD FARID ARMA",
+      "nohp": "0117634893",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035410,
+      "nama": "MUHAMMAD FAUZAN",
+      "nohp": "3093698202",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035411,
+      "nama": "MUHAMMAD FAWWAZ ZIDDAN",
+      "nohp": "0105236800",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035412,
+      "nama": "MULYA NADHIN AL ARAF",
+      "nohp": "0098622224",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035413,
+      "nama": "MUTIARA ATHAILLAH RASYID",
+      "nohp": "0103847155",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035414,
+      "nama": "NADYLA AZZAHRA",
+      "nohp": "0094341873",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035415,
+      "nama": "NAZIRA ASSYIFA LATIEF",
+      "nohp": "0101167505",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035416,
+      "nama": "SABILA KHAIRATI EL AMANI",
+      "nohp": "0097555534",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035417,
+      "nama": "SAFA LUVENA ANDRIANE",
+      "nohp": "0104718528",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035419,
+      "nama": "SAFFA RIZQITA UNZILA AZ ZAHRA",
+      "nohp": "0107480934",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035420,
+      "nama": "SAHIRA",
+      "nohp": "0095209964",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035421,
+      "nama": "SALBINO JOEHAR",
+      "nohp": "0102087517",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035422,
+      "nama": "SALSABILA",
+      "nohp": "0101132649",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035423,
+      "nama": "SYAKIRA AULIA RIZA",
+      "nohp": "0104090147",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035424,
+      "nama": "THOHIRO SALAMAH",
+      "nohp": "3107613760",
+      "kelas": "XI.8"
+    },
+    {
+      "id": 1788337035425,
+      "nama": "TSABITA RIF'ATUNISA",
+      "nohp": "0103741708",
+      "kelas": "XI.8"
+    }
+  ]
 }
